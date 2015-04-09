@@ -1,0 +1,4 @@
+Bash script that takes pictures using raspistill software,Raspberry Pi Camera/
+Raspberry Pi Camera Noir and saves pictures using date as filename inside 
+Apache's folders
+
